@@ -24,7 +24,9 @@ Software/Programming – Python, SQL, R, Tableau, AWS, SAS, C++, Excel, Spark, S
 
 Aspiring for : A position in Data Science/ Advance Analytics to leverage my business and technical knowledge to create practical solutions to business problems. My pursuit is to provide analytical solutions infused with business context, a rare solution in the current market !
 
-Thanks for looking at my repo ! Feel free to leave a message on pranidhii@gmail.com is you have any comments/suggestions or you wish to co-learn.
+Thanks for looking at my repo ! You can also follow my blogs on https://pranidhiprabhat.medium.com/ 
+
+Feel free to leave a message on pranidhii@gmail.com if you have any comments/suggestions or you wish to co-learn.
 
 Thank You.
 
